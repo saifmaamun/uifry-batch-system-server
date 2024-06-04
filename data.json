@@ -32,27 +32,31 @@
     }
   ],
   "testimonials": [
-    {
-      "name": "Alice Johnson",
-      "feedback": "This app has helped me save more effectively and manage my expenses with ease.",
-      "avatar": "https://via.placeholder.com/50"
-    },
-    {
-      "name": "Bob Smith",
-      "feedback": "I love the investment insights feature! It's like having a personal financial advisor.",
-      "avatar": "https://via.placeholder.com/50"
-    },
-    {
-      "name": "Carol White",
-      "feedback": "The bill reminders ensure I never miss a payment. Highly recommend!",
-      "avatar": "https://via.placeholder.com/50"
-    },
-    {
-      "name": "Dave Brown",
-      "feedback": "Budget tracking has never been easier. This app is a game changer.",
-      "avatar": "https://via.placeholder.com/50"
-    }
-  ],
+  {
+    "title": "Impressed New User",
+    "name": "Alicia Jones (32, Marketing Manager)",
+    "feedback": "I wasn't sure this budgeting app would work for me, but it's been amazing!  I've finally gotten a handle on my spending and even started saving for a vacation. Definitely recommend!",
+    "avatar": "https://example.com/user_avatars/alicia_jones.jpg"
+  },
+  {
+    "title": "Investment Enthusiast",
+    "name": "Robert Smith (55, Software Engineer)",
+    "feedback": "The investment insights in this app are incredible! It's like having a financial advisor in my pocket. I feel much more confident about my long-term financial goals now. Thanks!",
+    "avatar": "https://example.com/user_avatars/robert_smith.png"
+  },
+  {
+    "title": "Peace of Mind with Reminders",
+    "name": "Carolyn White (42, Teacher)",
+    "feedback": "Honestly, these bill reminders are a lifesaver!  I used to miss payments all the time, but this app keeps me on track. Plus, it helps me stay organized with my finances overall.  Love it!",
+    "avatar": "https://example.com/user_avatars/carolyn_white.jpg"
+  },
+  {
+    "title": "Budgeting Made Simple",
+    "name": "David Brown (28, Entrepreneur)",
+    "feedback": "Budgeting used to be such a chore, but this app makes it a breeze. Everything is so clear and easy to use.  I can finally see exactly where my money is going, and it's helped me make some smart adjustments.  Highly recommend!",
+    "avatar": "https://example.com/user_avatars/david_brown.jpeg"
+  }
+],
   "pricing": [
     {
       "plan": "Basic",
