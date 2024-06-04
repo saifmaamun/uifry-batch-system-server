@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "headline": "Discover Our App",
+    "subheadline": "The best app for all your needs.",
+    "ctaButtons": [
+      {
+        "text": "Download Now",
+        "link": "/download"
+      },
+      {
+        "text": "Learn More",
+        "link": "#features"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "Budget Tracking",
+      "description": "Easily monitor and categorize your spending to stay on budget."
+    },
+    {
+      "title": "Savings Goals",
+      "description": "Set and track your savings goals to achieve financial milestones faster."
+    },
+    {
+      "title": "Investment Insights",
+      "description": "Get personalized investment advice to grow your wealth."
+    },
+    {
+      "title": "Bill Reminders",
+      "description": "Never miss a bill payment with timely reminders."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Alice Johnson",
+      "feedback": "This app has helped me save more effectively and manage my expenses with ease.",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "Bob Smith",
+      "feedback": "I love the investment insights feature! It's like having a personal financial advisor.",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "Carol White",
+      "feedback": "The bill reminders ensure I never miss a payment. Highly recommend!",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "Dave Brown",
+      "feedback": "Budget tracking has never been easier. This app is a game changer.",
+      "avatar": "https://via.placeholder.com/50"
+    }
+  ],
+  "pricing": [
+    {
+      "plan": "Basic",
+      "price": "$9.99/month",
+      "features": ["Feature A", "Feature B", "Feature C"]
+    },
+    {
+      "plan": "Premium",
+      "price": "$19.99/month",
+      "features": ["Feature A", "Feature B", "Feature C", "Feature D"]
+    }
+  ]
+}
